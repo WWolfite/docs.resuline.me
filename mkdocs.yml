@@ -3,3 +3,5 @@ site_name: Resuline
 theme:
    name: material
    logo: /favicon.ico
+   palette:
+    primary: black
