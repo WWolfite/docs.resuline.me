@@ -5,4 +5,5 @@ theme:
    logo: /favicon.ico
    palette:
     primary: black
-    scheme: dark
+    scheme: slate
+    accent: indigo
