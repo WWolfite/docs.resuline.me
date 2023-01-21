@@ -7,3 +7,5 @@ theme:
     primary: black
     scheme: slate
     accent: indigo
+   features:
+    navigation.tracking
