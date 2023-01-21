@@ -3,9 +3,6 @@ site_name: Resuline
 theme:
    name: material
    logo: /favicon.ico
-   scheme: slate
-   toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
    palette:
     primary: black
+    scheme: dark
