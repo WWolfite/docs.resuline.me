@@ -2,7 +2,7 @@ site_name: Resuline
 
 theme:
    name: material
-   logo: /favicon.ico
+   logo: /logo.png
    palette:
     primary: black
     scheme: slate
