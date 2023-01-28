@@ -6,7 +6,4 @@ Before continuing, make sure you have Roblox Studio installed. If you for some r
 
 ## Installing Lite
 ### With Roblox
-Installing Resuline Lite with Roblox is quite easy. Simply go to the [download page], and click "GET PLUGIN." Then once you have bought the plugin, simply click "Install." If you do not see the install button, just go to [this page] and install it from there.
-
-    [download_page]: https://create.roblox.com/404
-    [this_page]: https://roblox.com/404
+Installing Resuline Lite with Roblox is quite easy. Simply go to the [download page](https://create.roblox.com/404), and click "GET PLUGIN." Then once you have bought the plugin, simply click "Install." If you do not see the install button, just go to [this page](https://roblox.com/404) and install it from there.
